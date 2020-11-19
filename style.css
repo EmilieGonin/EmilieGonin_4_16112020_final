@@ -740,6 +740,7 @@ h4 {
 }
 
 .portfolio-thumb {
+    margin: auto;
     margin-bottom: 24px;
 }
 
@@ -1032,6 +1033,9 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .black-background {
+      padding: 40px 0;
     }
 }
 
