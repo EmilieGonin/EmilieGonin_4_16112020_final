@@ -738,6 +738,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
+.black {
+  color: #212121!important;
+}
 
 .portfolio-thumb {
     margin: auto;
@@ -768,7 +771,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #191F38;
 }
 
 .bgc-atomic-tangerine {
